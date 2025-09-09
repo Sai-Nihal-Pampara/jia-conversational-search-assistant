@@ -1,0 +1,190 @@
+1	Men	Western Wear	T-Shirt	Pattern	Abstract	Include with Revised Value	Printed			Blue
+2	Men	Western Wear	T-Shirt	Pattern	Animal	Include with Revised Value	Animal Print			Multicolour,Blue,Brown
+3	Men	Western Wear	T-Shirt	Pattern	Applique	Include				Blue
+4	Men	Western Wear	T-Shirt	Pattern	Art Deco	Include				Grey
+21	Men	Western Wear	T-Shirt	Pattern	Herringbone	Include				Blue
+22	Men	Western Wear	T-Shirt	Pattern	Holographic	Include	Holographic Print			Grey
+23	Men	Western Wear	T-Shirt	Pattern	Houndstooth	Include	Houndstooth Print			Multicolour,Black,White
+24	Men	Western Wear	T-Shirt	Pattern	Ikat	Include	Ikat Print			Blue
+25	Men	Western Wear	T-Shirt	Pattern	Indian	Exclude				Red
+69	Men	Western Wear	T-Shirt	Fit	Slim Fit	Include				 Blue
+70	Men	Western Wear	T-Shirt	Fit	Extra Slim Fit	Include				 Blue
+71	Men	Western Wear	T-Shirt	Fit	Regular Fit	Include				White
+73	Men	Western Wear	T-Shirt	Fit	Boxy Fit	Include				Blue
+81	Men	Western Wear	T-Shirt	Transparency	Opaque	Exclude				Brown
+82	Men	Western Wear	T-Shirt	Transparency	Semi-sheer	Include				Black
+83	Men	Western Wear	T-Shirt	Transparency	Sheer	Include				White
+84	Men	Western Wear	T-Shirt	Features	3D Chassis	Exclude				Black
+85	Men	Western Wear	T-Shirt	Features	Absorbent	Include				Grey
+86	Men	Western Wear	T-Shirt	Features	Activchill	Include				LightGreen
+97	Men	Western Wear	T-Shirt	Features	Hooded	Include				Grey
+108	Men	Western Wear	T-Shirt	Features	Water-proof	Include				Dark_Blue
+111	Men	Western Wear	T-Shirt	Features	Wrinkle Free	Include				White
+112	Men	Western Wear	T-Shirt	Style Type	Polo	Include				Light_Green
+113	Men	Western Wear	T-Shirt	Style Type	V-neck	Include				Black
+115	Men	Western Wear	T-Shirt	Style Type	Crew	Include with Revised Value	Crew-Neck			Brown
+117	Men	Western Wear	T-Shirt	Style Type	Round	Exclude				Dark_Blue
+118	Men	Western Wear	T-Shirt	Style Type	Singlet	Include				Yellow
+121	Men	Western Wear	T-Shirt	Fabric Type	Acrylic	Exclude				Blue
+122	Men	Western Wear	T-Shirt	Fabric Type	Art Silk	Exclude				White
+124	Men	Western Wear	T-Shirt	Fabric Type	Baluchari	Exclude				Dark_Blue
+125	Men	Western Wear	T-Shirt	Fabric Type	Bamboo	Include				Green
+235	Men	Night & Loungewear	T-Shirt	Pattern	Abstract	Include				Black
+236	Men	Night & Loungewear	T-Shirt	Pattern	Animal	Include				Multicolour,Green,Grey,Yellow
+240	Men	Night & Loungewear	T-Shirt	Pattern	Baroque	Include				Black
+242	Men	Night & Loungewear	T-Shirt	Pattern	Camouflage	Include				Green
+243	Men	Night & Loungewear	T-Shirt	Pattern	Cartoon	Include				Red
+245	Men	Night & Loungewear	T-Shirt	Pattern	Chevrons	Include				Multicolour,White,Blue,Black
+246	Men	Night & Loungewear	T-Shirt	Pattern	Colour-block	Exclude				Multicolour,White,Green
+464	Men	Western Wear	Jeans	Waist Rise	High Rise	Include				Dark_Blue
+465	Men	Western Wear	Jeans	Waist Rise	Mid Rise	Exclude				Dark_Blue
+466	Men	Western Wear	Jeans	Waist Rise	Low Rise	Include				Light_Blue
+468	Men	Western Wear	Jeans	Style Type	Flared	Include				Blue
+469	Men	Western Wear	Jeans	Style Type	Joggers	Include				Grey
+470	Men	Western Wear	Jeans	Style Type	Relaxed	Include with Revised Value	Relaxed Fit			Light_Blue
+471	Men	Western Wear	Jeans	Style Type	Skinny	Include				Blue
+472	Men	Western Wear	Jeans	Style Type	Slim	Include with Revised Value	Slim Fit			Blue
+473	Men	Western Wear	Jeans	Style Type	Straight	Include with Revised Value	Straight Fit			Black
+474	Men	Western Wear	Jeans	Style Type	Tapered	Include with Revised Value	Tapered Fit			Black
+476	Men	Western Wear	Jeans	Style Type	Baggy	Include				Light_Blue
+477	Men	Western Wear	Jeans	Style Type	Bootcut	Include				Blue
+479	Men	Western Wear	Jeans	Style Type	Dad	Include				Light_Blue
+480	Men	Western Wear	Jeans	Distressed	Light Distress	Include with Revised Value	Distressed			Light_Blue
+481	Men	Western Wear	Jeans	Distressed	Mid Distress	Include with Revised Value	Distressed			Light_Blue
+482	Men	Western Wear	Jeans	Distressed	Heavy Distress	Include with Revised Value	Heavily Distressed			Light_Blue
+483	Men	Western Wear	Jeans	Distressed	Clean	Exclude				Dark_Blue
+484	Men	Western Wear	Jeans	Distressed	Knee slit	Include	Knee-Slit			Light_Blue
+491	Men	Western Wear	Shirt	Pattern	Block Print					Yellow
+494	Men	Western Wear	Shirt	Pattern	Checks					Pink
+495	Men	Western Wear	Shirt	Pattern	Chevrons					Blue
+501	Men	Western Wear	Shirt	Pattern	Floral					Multicolour,Green,Red,Yellow
+503	Men	Western Wear	Shirt	Pattern	Heathered				Multicolour,Blue,White,Black
+524	Men	Western Wear	Shirt	Pattern	Reptilian					Dark_Red
+526	Men	Western Wear	Shirt	Pattern	Self-design					Grey
+527	Men	Western Wear	Shirt	Pattern	Solid					Pink
+542	Men	Western Wear	Shirt	Pattern	Movies & Music					White
+553	Men	Western Wear	Shirt	Fit	Slim Fit					White
+554	Men	Western Wear	Shirt	Fit	Extra Slim Fit					Brown
+555	Men	Western Wear	Shirt	Fit	Regular Fit					Blue
+559	Men	Western Wear	Shirt	Fit	Loose Fit					Brown
+562	Men	Western Wear	Shirt	Fit	Athletic Fit					White
+565	Men	Night & Loungewear	Co-ord Set	Pattern	Abstract					Multicolour,Black,White
+566	Men	Night & Loungewear	Co-ord Set	Pattern	Animal					Multicolour,Black,Purple
+568	Men	Night & Loungewear	Co-ord Set	Pattern	Art Deco					Multicolour,Black,White
+569	Men	Night & Loungewear	Co-ord Set	Pattern	Aztec					Brown
+580	Men	Night & Loungewear	Co-ord Set	Pattern	Embroidery					Green
+633	Men	Night & Loungewear	Co-ord Set	Style Type	3-Piece Sets					Brown
+634	Men	Night & Loungewear	Co-ord Set	Style Type	2-Piece Sets					White
+643	Men	Western Wear	Blazers & Waistcoats	Pattern	Camouflage					Green
+652	Men	Western Wear	Blazers & Waistcoats	Pattern	Floral					Red
+654	Men	Western Wear	Blazers & Waistcoats	Pattern	Graphic					Yellow
+655	Men	Western Wear	Blazers & Waistcoats	Pattern	Heathered					White
+683	Men	Western Wear	Blazers & Waistcoats	Pattern	Stripes					Black
+684	Men	Western Wear	Blazers & Waistcoats	Pattern	Superhero					Red
+701	Men	Western Wear	Blazers & Waistcoats	Pattern	Patch-work					Green
+704	Men	Western Wear	Blazers & Waistcoats	Fit	Slim Fit					Black
+705	Men	Western Wear	Blazers & Waistcoats	Fit	Extra Slim Fit					Grey
+706	Men	Western Wear	Blazers & Waistcoats	Fit	Regular Fit					White
+708	Men	Western Wear	Blazers & Waistcoats	Fit	Boxy Fit					Brown
+711	Men	Western Wear	Blazers & Waistcoats	Fit	Relaxed Fit					Brown
+759	Men	Inner Wear	Boxers	Pattern	Self-design					Black
+760	Men	Inner Wear	Boxers	Pattern	Solid					Grey
+2909	Women	Western Wear	Jeans	Distressed	Clean	Exclude				Blue
+2909	Women	Western Wear	Jeans	Distressed	Clean	Exclude				Black
+2909	Women	Western Wear	Jeans	Distressed	Clean	Exclude				White
+2909	Women	Western Wear	Jeans	Distressed	Clean	Exclude				Red
+2910	Women	Western Wear	Jeans	Distressed	Light Distress	Include with Revised Value	Distressed			Blue
+2910	Women	Western Wear	Jeans	Distressed	Light Distress	Include with Revised Value	Distressed			Black
+2910	Women	Western Wear	Jeans	Distressed	Light Distress	Include with Revised Value	Distressed			White
+3383	Women	Western Wear	Jeans	Fit	Skinny					Blue
+3383	Women	Western Wear	Jeans	Fit	Skinny					black
+3383	Women	Western Wear	Jeans	Fit	Skinny					white
+3384	Women	Western Wear	Jeans	Fit	Super Skinny					black
+3384	Women	Western Wear	Jeans	Fit	Super Skinny					white
+3384	Women	Western Wear	Jeans	Fit	Super Skinny					Blue
+3387	Women	Western Wear	Jeans	Fit	Bootcut					Blue
+3387	Women	Western Wear	Jeans	Fit	Bootcut					black
+3387	Women	Western Wear	Jeans	Fit	Bootcut					white
+3389	Women	Western Wear	Jeans	Fit	Wide					Blue
+3389	Women	Western Wear	Jeans	Fit	Wide					black
+3389	Women	Western Wear	Jeans	Fit	Wide					white
+4001	Women	Ethnic Wear	Sarees	Pattern	Abstract					Multicolor
+4001	Women	Ethnic Wear	Sarees	Pattern	Abstract					Red
+4001	Women	Ethnic Wear	Sarees	Pattern	Abstract					White
+4001	Women	Ethnic Wear	Sarees	Pattern	Abstract					Black
+4012	Women	Ethnic Wear	Sarees	Pattern	Colourblock					Black
+4012	Women	Ethnic Wear	Sarees	Pattern	Colourblock					white
+4012	Women	Ethnic Wear	Sarees	Pattern	Colourblock					gold
+4012	Women	Ethnic Wear	Sarees	Pattern	Colourblock					multicolor
+4017	Women	Ethnic Wear	Sarees	Pattern	Embellished					Black
+4017	Women	Ethnic Wear	Sarees	Pattern	Embellished					White
+4017	Women	Ethnic Wear	Sarees	Pattern	Embellished					Red
+4017	Women	Ethnic Wear	Sarees	Pattern	Embellished					Multicolor
+4020	Women	Ethnic Wear	Sarees	Pattern	Floral					Black
+4020	Women	Ethnic Wear	Sarees	Pattern	Floral					White
+4020	Women	Ethnic Wear	Sarees	Pattern	Floral					Red
+4020	Women	Ethnic Wear	Sarees	Pattern	Floral					Multicolor
+4027	Women	Ethnic Wear	Sarees	Pattern	Ikat					Black
+4027	Women	Ethnic Wear	Sarees	Pattern	Ikat					white
+4027	Women	Ethnic Wear	Sarees	Pattern	Ikat					blue
+4034	Women	Ethnic Wear	Sarees	Pattern	Metallic & Glitter					Black
+4034	Women	Ethnic Wear	Sarees	Pattern	Metallic & Glitter					multicolor
+4034	Women	Ethnic Wear	Sarees	Pattern	Metallic & Glitter					blue
+4042	Women	Ethnic Wear	Sarees	Pattern	Ombre-dyed					Multicolor
+4042	Women	Ethnic Wear	Sarees	Pattern	Ombre-dyed					black
+4042	Women	Ethnic Wear	Sarees	Pattern	Ombre-dyed					red
+4046	Women	Ethnic Wear	Sarees	Pattern	Polka-dot					Black
+4046	Women	Ethnic Wear	Sarees	Pattern	Polka-dot					White
+4046	Women	Ethnic Wear	Sarees	Pattern	Polka-dot					Red
+4046	Women	Ethnic Wear	Sarees	Pattern	Polka-dot					Multicolor
+6833	Women	Western Wear	Top	Pattern	Dyed/Washed					Black
+6833	Women	Western Wear	Top	Pattern	Dyed/Washed					white
+6833	Women	Western Wear	Top	Pattern	Dyed/Washed					red
+6843	Women	Western Wear	Top	Pattern	Lace					Black
+6843	Women	Western Wear	Top	Pattern	Lace					white
+6843	Women	Western Wear	Top	Pattern	Lace					red
+6854	Women	Western Wear	Top	Pattern	Solid					Grey
+6854	Women	Western Wear	Top	Pattern	Solid					black
+6854	Women	Western Wear	Top	Pattern	Solid					white
+6854	Women	Western Wear	Top	Pattern	Solid					red
+6857	Women	Western Wear	Top	Pattern	Superhero					Black
+6857	Women	Western Wear	Top	Pattern	Superhero					blue
+6857	Women	Western Wear	Top	Pattern	Superhero					white
+6866	Women	Western Wear	Top	Pattern	Embroidery					Black
+6866	Women	Western Wear	Top	Pattern	Embroidery					white
+6866	Women	Western Wear	Top	Pattern	Embroidery					red
+6871	Women	Western Wear	Top	Pattern	Metallic & Glitter					Black
+6871	Women	Western Wear	Top	Pattern	Metallic & Glitter					white
+6871	Women	Western Wear	Top	Pattern	Metallic & Glitter					 red
+7158	Women	Western Wear	Jeans	Waist Rise	High Rise					Blue
+7158	Women	Western Wear	Jeans	Waist Rise	High Rise					black
+7158	Women	Western Wear	Jeans	Waist Rise	High Rise					white
+7159	Women	Western Wear	Jeans	Waist Rise	Mid Rise					Blue
+7159	Women	Western Wear	Jeans	Waist Rise	Mid Rise					black
+7159	Women	Western Wear	Jeans	Waist Rise	Mid Rise					white
+7160	Women	Western Wear	Jeans	Waist Rise	Low Rise					Blue
+7160	Women	Western Wear	Jeans	Waist Rise	Low Rise					black
+7160	Women	Western Wear	Jeans	Waist Rise	Low Rise					white
+7164	Women	Western Wear	Jeans	Wash	Light Wash					Blue
+7164	Women	Western Wear	Jeans	Wash	Light Wash					Black
+7164	Women	Western Wear	Jeans	Wash	Light Wash					grey
+7165	Women	Western Wear	Jeans	Wash	Mid Wash					Blue
+7165	Women	Western Wear	Jeans	Wash	Mid Wash					Black
+7165	Women	Western Wear	Jeans	Wash	Mid Wash					grey
+7166	Women	Western Wear	Jeans	Wash	Heavy Wash					Blue
+7166	Women	Western Wear	Jeans	Wash	Heavy Wash					Black
+7166	Women	Western Wear	Jeans	Wash	Heavy Wash					grey
+7180	Women	Western Wear	Top	Sleeve Type	One-shoulder sleeve					Black
+7180	Women	Western Wear	Top	Sleeve Type	One-shoulder sleeve					white
+7180	Women	Western Wear	Top	Sleeve Type	One-shoulder sleeve					red
+7256	Women	Western Wear	Top	Fit	Athletic Fit					Black
+7256	Women	Western Wear	Top	Fit	Athletic Fit					grey
+7256	Women	Western Wear	Top	Fit	Athletic Fit					white
+8038	Women	Western Wear	Top	Fit	Boxy Fit					Brown
+8038	Women	Western Wear	Top	Fit	Boxy Fit					Black
+8038	Women	Western Wear	Top	Fit	Boxy Fit					White
+8038	Women	Western Wear	Top	Fit	Boxy Fit					Red
+8042	Women	Western Wear	Top	Neckline	Tie-up					Black
+8042	Women	Western Wear	Top	Neckline	Tie-up					white
+8042	Women	Western Wear	Top	Neckline	Tie-up					red
+8042	Women	Western Wear	Top	Neckline	Tie-up					grey

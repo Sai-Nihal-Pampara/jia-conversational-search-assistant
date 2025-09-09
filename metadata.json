@@ -1,0 +1,7 @@
+{
+  "name": "JIA: Your Conversational Search Assistant",
+  "description": "JIA offers a voice-first interface for effortless fashion discovery on an Ajio-inspired platform, making your shopping experience intuitive and trend-aware. Just speak, and JIA finds it.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
